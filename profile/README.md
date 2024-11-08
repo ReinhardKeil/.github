@@ -65,7 +65,7 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | STM32L4 | . | . |
 | [B-L475E-IOT01A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-L475E-IOT01A_BSP) | [keil.arm.com/packs/b-l475e-iot01a_bsp-keil-keil](https://www.keil.arm.com/packs/b-l475e-iot01a_bsp-keil) | IoT Kit with STM32L475VGTx |
 | [NUCLEO-L476RG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L476RG_BSP) | [keil.arm.com/packs/nucleo-l476rg_bsp-keil](https://www.keil.arm.com/packs/nucleo-l476rg_bsp-keil) | Nucleo Kit for STM32L476RG Series |
-| [STM32L469G-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L469G-DISCO_BSP) | [keil.arm.com/packs/stm32l469g-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l469g-disco_bsp-keil) | Discovery Kit for STM32L469G Series |
+| [STM32L496G-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L496G-DISCO_BSP) | [keil.arm.com/packs/stm32l496g-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l496g-disco_bsp-keil) | Discovery Kit for STM32L469G Series |
 | [STM32L4R9I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L4R9I-DISCO_BSP) | [keil.arm.com/packs/stm32l4R9i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l4r9i-disco_bsp-keil) | Discovery Kit for STM32L4R9I Series |
 | STM32U5 | . | . |
 | [B-U585I-IOT02A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP) | [keil.arm.com/packs/b-u585i-iot02a_bsp-keil](https://www.keil.arm.com/packs/b-u585i-iot02a_bsp-keil) | IoT Kit with STM32U585AIIx |
